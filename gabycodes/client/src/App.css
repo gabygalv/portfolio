@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  background-color: #FAF3DD;
+
+}
+
+.intro {
+  position: absolute;
+width: 784px;
+height: 171px;
+left: 52px;
+top: 229px;
+font-family: 'Playfair Display SC';
+font-style: normal;
+/* font-weight: 100; */
+font-size: 128px;
+line-height: 171px;
+/* identical to box height */
+
+letter-spacing: -0.045em;
+/* font-variant: small-caps; */
+
+color: #4A7C59;
+}
+.subheading {
+  position: absolute;
+width: 486px;
+height: 61px;
+left: 314px;
+top: 400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #68B0AB;
+}
+
+.background {
+  background-color: #FAF3DD;
+}
+
+.linkys {
+  position: fixed;
+  right: 6%;
+  top: 6%;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #4A7C59;
+}
+.footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+padding: 70px;
+text-align: center;
+background: #8FC0A9;
+}
+.icons {
+  padding-inline: 5px;
+}
